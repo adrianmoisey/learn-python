@@ -17,9 +17,11 @@ A collection of links that teach python
     - Udemy
         - [Coding for Entrepreneurs: Learn Django a Killer Python Framework](https://www.udemy.com/coding-for-entrepreneurs/)
 - Python
+    - [Codecademy](http://www.codecademy.com/tracks/python)
     - [Full Stack Python](http://www.fullstackpython.com/)
     - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
     - [Python Practise Book](http://anandology.com/python-practice-book/index.html)
 - Practice
+    - [Codewars](http://www.codewars.com/)
     - [Exercism](http://exercism.io/)
 
