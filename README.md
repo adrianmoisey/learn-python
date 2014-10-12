@@ -3,6 +3,7 @@
 A collection of links that teach python
 
 - Django
+    - [Getting Started with Django](http://gettingstartedwithdjango.com/)
     - [Getting Started with Django, a crash course](https://www.youtube.com/watch?v=KZHXjGP71kQ)
     - [Learn Django, Python & More](https://godjango.com/)
     - [Starting a Django Project](https://realpython.com/learn/start-django/)
