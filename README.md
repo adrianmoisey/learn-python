@@ -23,6 +23,7 @@ A collection of links that teach python
     - [Full Stack Python](http://www.fullstackpython.com/)
     - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
     - [Python Practise Book](http://anandology.com/python-practice-book/index.html)
+    - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - Practice
     - [Codewars](http://www.codewars.com/)
     - [Exercism](http://exercism.io/)
