@@ -27,5 +27,6 @@ A collection of links that teach python
     - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - Practice
     - [Codewars](http://www.codewars.com/)
+    - [CodingBat](http://codingbat.com/python)
     - [Exercism](http://exercism.io/)
 
