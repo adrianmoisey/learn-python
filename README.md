@@ -9,6 +9,7 @@ A collection of links that teach python
     - [Mike's Django Tutorials](http://www.mikesdjangotutorials.co.uk/)
     - [Starting a Django Project](https://realpython.com/learn/start-django/)
     - [Tango With Django](http://www.tangowithdjango.com/)
+    - [Ultimate Django](https://ultimatedjango.com/learn-django/chapters/)
 - Flask
     - [Discover Flask](https://github.com/realpython/discover-flask)
     - [The Flask Mega Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
