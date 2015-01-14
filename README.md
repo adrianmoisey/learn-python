@@ -25,6 +25,7 @@ A collection of links that teach python
     - [Dive Into Python 3](http://www.diveinto.org/python3/)
     - [Full Stack Python](http://www.fullstackpython.com/)
     - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
+    - [Non-Programmer's Tutorial for Python 3](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
     - [Python Practice Book](http://anandology.com/python-practice-book/index.html)
     - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - Practice
