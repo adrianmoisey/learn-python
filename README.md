@@ -27,9 +27,9 @@ A collection of links that teach python
     - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
     - [Non-Programmer's Tutorial for Python 3](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
     - [Python Practice Book](http://anandology.com/python-practice-book/index.html)
+    - [Real Python (non-free)](https://realpython.com)
     - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - Practice
     - [Codewars](http://www.codewars.com/)
     - [CodingBat](http://codingbat.com/python)
     - [Exercism](http://exercism.io/)
-
