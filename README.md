@@ -10,6 +10,7 @@ A collection of links that teach python
     - [Starting a Django Project](https://realpython.com/learn/start-django/)
     - [Tango With Django](http://www.tangowithdjango.com/)
     - [TaskBuster Django Tutorial](http://www.marinamele.com/taskbuster-django-tutorial)
+    - [Think Python: How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/)
     - [Ultimate Django](https://ultimatedjango.com/learn-django/chapters/)
 - Flask
     - [Discover Flask](https://github.com/realpython/discover-flask)
