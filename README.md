@@ -24,6 +24,7 @@ A collection of links that teach python
         - [Coding for Entrepreneurs: Learn Django a Killer Python Framework](https://www.udemy.com/coding-for-entrepreneurs/)
 - Python
     - [A Byte of Python](http://www.swaroopch.com/notes/python/)
+    - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
     - [Codecademy](http://www.codecademy.com/tracks/python)
     - [Dive Into Python 3](http://www.diveinto.org/python3/)
     - [Full Stack Python](http://www.fullstackpython.com/)
