@@ -27,6 +27,7 @@ A collection of links that teach python
     - [Codecademy](http://www.codecademy.com/tracks/python)
     - [Dive Into Python 3](http://www.diveinto.org/python3/)
     - [Full Stack Python](http://www.fullstackpython.com/)
+    - [Intermediate Python](http://book.pythontips.com/en/latest/)
     - [Learn Python in 10 minutes](http://www.stavros.io/tutorials/python/)
     - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
     - [Non-Programmer's Tutorial for Python 3](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
