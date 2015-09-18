@@ -4,6 +4,7 @@ A collection of links that teach python
 
 - Django
     - [Django Girls Tutorial](http://tutorial.djangogirls.org/en/index.html)
+    - [Hello Web App (non-free) (book)](https://hellowebapp.com/)
     - [Getting Started with Django](http://gettingstartedwithdjango.com/)
     - [Getting Started with Django, a crash course](https://www.youtube.com/watch?v=KZHXjGP71kQ)
     - [Go Django](https://godjango.com/)
