@@ -42,3 +42,8 @@ A collection of links that teach python
     - [Codewars](http://www.codewars.com/)
     - [CodingBat](http://codingbat.com/python)
     - [Exercism](http://exercism.io/)
+    - [CheckIO](http://www.checkio.org/)
+    - [RobotGame](https://robotgame.net/home)
+    - [HackerRank](https://www.hackerrank.com/domains)
+    - [CodeEval](https://www.codeeval.com/dashboard/)
+    - [EmpireOfCode](https://empireofcode.com/game/)
