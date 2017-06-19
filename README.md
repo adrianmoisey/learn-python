@@ -27,7 +27,7 @@ A collection of links that teach python
     - [A Byte of Python](http://www.swaroopch.com/notes/python/)
     - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
     - [Codecademy](http://www.codecademy.com/tracks/python)
-    - [Dive Into Python 3](http://www.diveinto.org/python3/)
+    - [Dive Into Python 3](http://www.diveintopython3.net/)
     - [Full Stack Python](http://www.fullstackpython.com/)
     - [Intermediate Python](http://book.pythontips.com/en/latest/)
     - [Learn Python in 10 minutes](http://www.stavros.io/tutorials/python/)
