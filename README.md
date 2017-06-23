@@ -3,6 +3,7 @@
 A collection of links that teach python
 
 - Django
+    - [Django For Beginners](https://djangoforbeginners.com/)
     - [Django Girls Tutorial](http://tutorial.djangogirls.org/en/index.html)
     - [Django Tutorial - David Leonard](http://drksephy.github.io/2015/07/16/django/)
     - [Getting Started with Django, a crash course](https://www.youtube.com/watch?v=KZHXjGP71kQ)
