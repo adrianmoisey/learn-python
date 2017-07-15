@@ -10,6 +10,7 @@ A collection of links that teach python
     - [Go Django](https://godjango.com/)
     - [Hello Web App (non-free) (book)](https://hellowebapp.com/)
     - [Mike's Django Tutorials](https://mikesdjangotutorials.co.uk)
+    - [Python Books](http://pythonbooks.org/)
     - [Starting a Django Project](https://realpython.com/learn/start-django/)
     - [Tango With Django](http://www.tangowithdjango.com/)
     - [TaskBuster Django Tutorial](http://www.marinamele.com/taskbuster-django-tutorial)
