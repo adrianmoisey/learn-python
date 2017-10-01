@@ -3,6 +3,7 @@
 A collection of links that teach python
 
 - Django
+    - [https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html](https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html)
     - [Django For Beginners](https://djangoforbeginners.com/)
     - [Django Girls Tutorial](http://tutorial.djangogirls.org/en/index.html)
     - [Django Tutorial - David Leonard](http://drksephy.github.io/2015/07/16/django/)
