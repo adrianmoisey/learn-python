@@ -42,6 +42,7 @@ A collection of links that teach python
     - [Snakify, a tutorial with 100 exercises and a step-by-step debugger](https://snakify.org)
     - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
     - [Think Python: How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/)
+    - [Python Notes for Professionals book](http://books.goalkicker.com/PythonBook/)
 - Practice
     - [Codewars](http://www.codewars.com/)
     - [CodingBat](http://codingbat.com/python)
