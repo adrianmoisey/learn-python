@@ -4,6 +4,7 @@ A collection of links that teach python
 
 - Django
     - [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/)
+    - [Learn Django](https://overiq.com/django/1.11/intro-to-django/)
     - [Django Crash Course](https://www.youtube.com/watch?v=D6esTdOLXh4)
     - [Django For Beginners](https://djangoforbeginners.com/)
     - [Django Girls Tutorial](http://tutorial.djangogirls.org/en/index.html)
