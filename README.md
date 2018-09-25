@@ -28,6 +28,16 @@ A collection of links that teach python
         - [Web Development](https://www.udacity.com/course/cs253)
     - Udemy
         - [Coding for Entrepreneurs: Learn Django a Killer Python Framework](https://www.udemy.com/coding-for-entrepreneurs/)
+    - edX
+        - [Analytics in Python](https://www.edx.org/course/analytics-in-python)
+        - [Python for Data Science](https://www.edx.org/course/python-for-data-science)
+        - [Introduction to Python for Data Science](https://www.edx.org/course/introduction-to-python-for-data-science-1)
+        - [Introduction to programming using Python](https://www.edx.org/course/introduction-to-programming-using-python)
+- Tutorials
+    - YouTube
+        - [Python Basic Tutorials by **SentDex**](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdFqJtqsyeEewqVm_7VRrlD)
+        - [Python 3.4 Programming Tutorials by **thenewboston**](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+        - [Python Programming Beginner Tutorials by **Corey Schafer**](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
 - Python
     - [A Byte of Python](http://www.swaroopch.com/notes/python/)
     - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
