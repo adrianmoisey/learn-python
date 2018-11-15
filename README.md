@@ -12,7 +12,6 @@ A collection of links that teach python
     - [Getting Started with Django, a crash course](https://www.youtube.com/watch?v=KZHXjGP71kQ)
     - [Go Django](https://godjango.com/)
     - [Hello Web App (non-free) (book)](https://hellowebapp.com/)
-    - [Mike's Django Tutorials](https://mikesdjangotutorials.co.uk)
     - [Python Books](http://pythonbooks.org/)
     - [Starting a Django Project](https://realpython.com/learn/start-django/)
     - [Tango With Django](http://www.tangowithdjango.com/)
