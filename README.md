@@ -53,6 +53,7 @@ A collection of links that teach python
     - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
     - [Think Python: How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/)
     - [Python Notes for Professionals book](http://books.goalkicker.com/PythonBook/)
+    - [Quantitative Economics with Python](https://lectures.quantecon.org/py/)
 - Practice
     - [Codewars](http://www.codewars.com/)
     - [CodingBat](http://codingbat.com/python)
