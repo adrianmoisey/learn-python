@@ -8,6 +8,7 @@ A collection of links that teach python
     - [Django Crash Course](https://www.youtube.com/watch?v=D6esTdOLXh4)
     - [Django For Beginners](https://djangoforbeginners.com/)
     - [Django Girls Tutorial](http://tutorial.djangogirls.org/en/index.html)
+    - [Django Tutorial (Create a Blog) by **The Net Ninja**](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc)
     - [Django Tutorial - David Leonard](http://drksephy.github.io/2015/07/16/django/)
     - [Getting Started with Django, a crash course](https://www.youtube.com/watch?v=KZHXjGP71kQ)
     - [Go Django](https://godjango.com/)
@@ -26,7 +27,12 @@ A collection of links that teach python
         - [Intro to Computer Science](https://www.udacity.com/course/cs101)
         - [Web Development](https://www.udacity.com/course/cs253)
     - Udemy
+        - [Automated Software Testing with Python](https://www.udemy.com/course/automated-software-testing-with-python/)
+        - [Automate the Boring Stuff with Python](https://www.udemy.com/course/automate/)
         - [Coding for Entrepreneurs: Learn Django a Killer Python Framework](https://www.udemy.com/coding-for-entrepreneurs/)
+        - [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/)
+        - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+        - [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
     - edX
         - [Analytics in Python](https://www.edx.org/course/analytics-in-python)
         - [Python for Data Science](https://www.edx.org/course/python-for-data-science)
@@ -37,6 +43,7 @@ A collection of links that teach python
         - [Python Basic Tutorials by **SentDex**](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdFqJtqsyeEewqVm_7VRrlD)
         - [Python 3.4 Programming Tutorials by **thenewboston**](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
         - [Python Programming Beginner Tutorials by **Corey Schafer**](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
+        - [Python3 for Beginners by **The Net Ninja**](https://www.youtube.com/playlist?list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK)
 - Python
     - [A Byte of Python](http://www.swaroopch.com/notes/python/)
     - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
@@ -50,6 +57,7 @@ A collection of links that teach python
     - [Python Practice Book](http://anandology.com/python-practice-book/index.html)
     - [Real Python (non-free)](https://realpython.com)
     - [Snakify, a tutorial with 100 exercises and a step-by-step debugger](https://snakify.org)
+    - [SoloLearn Python 3 Course](https://www.sololearn.com/Course/Python/)
     - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
     - [Think Python: How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/)
     - [Python Notes for Professionals book](http://books.goalkicker.com/PythonBook/)
