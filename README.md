@@ -49,6 +49,7 @@ A collection of links that teach python
     - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
     - [Codecademy](http://www.codecademy.com/tracks/python)
     - [Dive Into Python 3](https://diveintopython3.problemsolving.io/)
+    - [Ultimate Python study guide](https://github.com/huangsam/ultimate-python)
     - [Full Stack Python](http://www.fullstackpython.com/)
     - [Intermediate Python](http://book.pythontips.com/en/latest/)
     - [Learn Python in 10 minutes](http://www.stavros.io/tutorials/python/)
