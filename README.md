@@ -49,6 +49,7 @@ A collection of links that teach python
     - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
     - [Codecademy](http://www.codecademy.com/tracks/python)
     - [Dive Into Python 3](https://diveintopython3.problemsolving.io/)
+    - [Free Python Books](https://github.com/pamoroso/free-python-books)
     - [Ultimate Python study guide](https://github.com/huangsam/ultimate-python)
     - [Full Stack Python](http://www.fullstackpython.com/)
     - [import asyncio: Learn Python's AsyncIO](https://www.youtube.com/playlist?list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB)
