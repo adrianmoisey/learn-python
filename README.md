@@ -62,6 +62,7 @@ A collection of links that teach python
     - [Snakify, a tutorial with 100 exercises and a step-by-step debugger](https://snakify.org)
     - [SoloLearn Python 3 Course](https://www.sololearn.com/Course/Python/)
     - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+    - [The Complete Python Course For Beginners](https://www.youtube.com/watch?v=sxTmJE4k0ho)
     - [Think Python: How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/)
     - [Python Notes for Professionals book](http://books.goalkicker.com/PythonBook/)
     - [Quantitative Economics with Python](https://lectures.quantecon.org/py/)
