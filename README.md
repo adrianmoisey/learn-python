@@ -59,6 +59,7 @@ A collection of links that teach python
     - [Non-Programmer's Tutorial for Python 3](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
     - [Python Practice Book](http://anandology.com/python-practice-book/index.html)
     - [Real Python (non-free)](https://realpython.com)
+    - [Learn Python Programming](https://www.scaler.com/topics/python/)
     - [Snakify, a tutorial with 100 exercises and a step-by-step debugger](https://snakify.org)
     - [SoloLearn Python 3 Course](https://www.sololearn.com/Course/Python/)
     - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
