@@ -76,3 +76,6 @@ A collection of links that teach python
     - [HackerRank](https://www.hackerrank.com/domains)
     - [CodeEval](https://www.codeeval.com/dashboard/)
     - [EmpireOfCode](https://empireofcode.com/game/)
+
+ - Youtube
+    - [AnthonyWritesCode](https://www.youtube.com/anthonywritescode)
