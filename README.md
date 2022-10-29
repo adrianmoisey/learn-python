@@ -66,7 +66,6 @@ A collection of links that teach python
     - [The Complete Python Course For Beginners](https://www.youtube.com/watch?v=sxTmJE4k0ho)
     - [Think Python: How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/)
     - [Python Notes for Professionals book](http://books.goalkicker.com/PythonBook/)
-    - [Quantitative Economics with Python](https://lectures.quantecon.org/py/)
 - Practice
     - [Codewars](http://www.codewars.com/)
     - [CodingBat](http://codingbat.com/python)
@@ -76,6 +75,5 @@ A collection of links that teach python
     - [HackerRank](https://www.hackerrank.com/domains)
     - [CodeEval](https://www.codeeval.com/dashboard/)
     - [EmpireOfCode](https://empireofcode.com/game/)
-
  - Youtube
     - [AnthonyWritesCode](https://www.youtube.com/anthonywritescode)
