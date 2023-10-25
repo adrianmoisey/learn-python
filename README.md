@@ -17,7 +17,6 @@ A collection of links that teach python
     - [Starting a Django Project](https://realpython.com/learn/start-django/)
     - [Tango With Django](http://www.tangowithdjango.com/)
     - [TaskBuster Django Tutorial](http://www.marinamele.com/taskbuster-django-tutorial)
-    - [Ultimate Django](https://ultimatedjango.com/learn-django/chapters/)
 - Flask
     - [Discover Flask](https://github.com/realpython/discover-flask)
     - [The Flask Mega Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
@@ -47,6 +46,7 @@ A collection of links that teach python
 - Python
     - [A Byte of Python](http://www.swaroopch.com/notes/python/)
     - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+    - [BBC R&D Cloudfit team - Asyncio](https://bbc.github.io/cloudfit-public-docs/)
     - [Codecademy](http://www.codecademy.com/tracks/python)
     - [Dive Into Python 3](https://diveintopython3.problemsolving.io/)
     - [Free Python Books](https://github.com/pamoroso/free-python-books)
